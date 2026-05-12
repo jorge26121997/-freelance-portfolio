@@ -25,3 +25,10 @@ Sheets, and sends automatic replies to urgent requests.
 ## Result
 Zero missed emails, automatic categorisation, 
 full audit trail, team time freed for operational work.
+## Screenshots
+
+### Workflow
+![Workflow](Workflow.png)
+
+### Data logged in Google Sheets
+![Data](data.png)
