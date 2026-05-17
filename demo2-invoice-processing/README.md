@@ -38,7 +38,10 @@ input, no human errors, and a complete audit trail automatically maintained.
 ## Screenshots
 
 ### Workflow
-![Workflow](workflow.png)
+![Workflow](demo%202.png)
 
 ### Data logged in Google Sheets
-![Data](data.png)
+![Data](Invoice-Sheet.png)
+
+### Confirmation Email
+![Confirmation](Confirmation-Email.png)
